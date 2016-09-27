@@ -21,9 +21,6 @@
   "engines": {
     "node": ">=0.12"
   },
-  "os": [
-    "darwin"
-  ],
   "repository": {
     "type": "git",
     "url": "http://github.com/LinusU/node-appdmg.git"
